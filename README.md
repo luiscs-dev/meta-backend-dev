@@ -22,5 +22,3 @@ There are 10 Courses in this Professional Certificate:
 - Coding Interview Preparation
 
 
-
-
